@@ -27,9 +27,9 @@
 }
 #ls-drawer-header .ls-title {
   font-family: 'Cormorant', Georgia, serif;
-  font-size: 1.3rem; font-weight: 600; color: #1a1a1a; letter-spacing: -0.01em;
+  font-size: 1.6rem; font-weight: 600; color: #1a1a1a; letter-spacing: -0.01em;
 }
-#ls-drawer-header .ls-sub { font-size: 0.68rem; color: #aaa; margin-top: 1px; }
+#ls-drawer-header .ls-sub { font-size: 0.82rem; color: #aaa; margin-top: 1px; }
 #ls-project-grid { padding: 12px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
 .ls-card {
   display: flex; align-items: center; gap: 12px; padding: 10px 12px;
@@ -45,14 +45,14 @@
 }
 .ls-thumb img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; display: block; }
 .ls-info { flex: 1; min-width: 0; }
-.ls-name { font-size: 0.8rem; font-weight: 600; color: #1a1a1a; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.ls-desc { font-size: 0.68rem; color: #999; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 1px; }
-.ls-badge { font-size: 0.58rem; font-weight: 600; padding: 2px 6px; border-radius: 4px; flex-shrink: 0; text-transform: uppercase; letter-spacing: 0.04em; }
+.ls-name { font-size: 0.92rem; font-weight: 600; color: #1a1a1a; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.ls-desc { font-size: 0.78rem; color: #999; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 1px; }
+.ls-badge { font-size: 0.68rem; font-weight: 600; padding: 2px 6px; border-radius: 4px; flex-shrink: 0; text-transform: uppercase; letter-spacing: 0.04em; }
 .ls-badge-building { background: #e8f0fb; color: #4a7fc1; }
 .ls-badge-acquired { background: #e6f4ea; color: #3a8a50; }
 #ls-drawer-footer {
   padding: 12px 16px; border-top: 1px solid #efefef;
-  font-size: 0.62rem; color: #ccc; text-align: center; background: #fff;
+  font-size: 0.74rem; color: #ccc; text-align: center; background: #fff;
 }
 `;
 
