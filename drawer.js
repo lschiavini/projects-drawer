@@ -1,6 +1,6 @@
 (function () {
   const PROJECTS_URL =
-    "https://cdn.jsdelivr.net/gh/lschiavini/projects-drawer@main/projects.json";
+    "https://cdn.jsdelivr.net/gh/lschiavini/projects-drawer@v4/projects.json";
 
   const CSS = `
 @import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@500;600&display=swap');
