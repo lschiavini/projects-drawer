@@ -94,9 +94,11 @@
       `${projects.length} projects`;
 
     projects.forEach((p) => {
+      const ref = window.location.hostname;
+      const separator = p.url.includes("?") ? "&" : "?";
       const card = document.createElement("a");
       card.className = "ls-card";
-      card.href = p.url;
+      card.href = p.url + separator + "ref=" + ref;
       card.target = "_blank";
       card.rel = "noopener noreferrer";
 
