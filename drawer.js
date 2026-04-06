@@ -1,4 +1,4 @@
-(function () {
+(function() {
   const PROJECTS_URL =
     "https://lschiavini.github.io/projects-drawer/projects.json";
 
@@ -91,7 +91,7 @@
     const grid = document.getElementById("ls-project-grid");
     const acquired = projects.filter((p) => p.status === "acquired").length;
     document.getElementById("ls-sub").textContent =
-      `${projects.length} projects · ${acquired} acquired`;
+      `${projects.length} projects`;
 
     projects.forEach((p) => {
       const card = document.createElement("a");
@@ -105,8 +105,8 @@
         p.status === "building"
           ? `<span class="ls-badge ls-badge-building">WIP</span>`
           : p.status === "acquired"
-          ? `<span class="ls-badge ls-badge-acquired">Acq.</span>`
-          : "";
+            ? `<span class="ls-badge ls-badge-acquired">Acq.</span>`
+            : "";
 
       card.innerHTML = `
         <div class="ls-thumb">
