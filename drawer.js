@@ -75,7 +75,7 @@
         <div class="ls-sub" id="ls-sub">Loading...</div>
       </div>
       <div id="ls-project-grid"></div>
-      <div id="ls-drawer-footer">lucas-schiavini.com</div>
+      <div id="ls-drawer-footer"><a href="https://lucas-schiavini.com" target="_blank" rel="noopener noreferrer" style="color:inherit;text-decoration:none;">lucas-schiavini.com</a></div>
     `;
     document.body.appendChild(drawer);
 
