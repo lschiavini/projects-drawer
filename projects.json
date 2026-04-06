@@ -50,12 +50,6 @@
     "status": "acquired"
   },
   {
-    "name": "Jiu Jitsu Retreats",
-    "desc": "Active vacations worldwide",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfXdrmeuyPKSpeVpuKFt0T0Ryg3pTYWvUgmpSnV1iDX-dn-LQ/viewform",
-    "img": "https://d3m8mk7e1mf7xn.cloudfront.net/65a988458752ac6fb996efa6/1724942769356image.webp"
-  },
-  {
     "name": "Robotics Course",
     "desc": "Robotics for beginners (pt-BR)",
     "url": "https://lucasschiavini.gumroad.com/l/curso-robotica",
