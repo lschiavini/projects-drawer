@@ -1,5 +1,11 @@
 [
   {
+    "name": "Flow",
+    "desc": "A personal OS for builders with ADHD",
+    "url": "https://flow.tasknap.com",
+    "img": "https://d3m8mk7e1mf7xn.cloudfront.net/65a988458752ac6fb996efa6/1775700771379favicon.png"
+  },
+  {
     "name": "Your Page Sucks",
     "desc": "Let me roast your landing page",
     "url": "https://yourpagesucks.com",
