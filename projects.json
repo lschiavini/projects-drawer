@@ -1,5 +1,17 @@
 [
   {
+    "name": "Analog Reader",
+    "desc": "RSS → printable newspaper",
+    "url": "https://analogreader.com",
+    "img": "https://d3m8mk7e1mf7xn.cloudfront.net/65a988458752ac6fb996efa6/1770902529977square logos.png"
+  },
+  {
+    "name": "Vedeggio",
+    "desc": "Cost tracking that doesn't suck",
+    "url": "https://vedeggio.com",
+    "img": "https://vedeggio.com/favicon.ico"
+  },
+  {
     "name": "Flow",
     "desc": "A personal OS for builders with ADHD",
     "url": "https://flow.tasknap.com",
@@ -19,22 +31,10 @@
     "status": "building"
   },
   {
-    "name": "Analog Reader",
-    "desc": "RSS → printable newspaper",
-    "url": "https://analogreader.com",
-    "img": "https://d3m8mk7e1mf7xn.cloudfront.net/65a988458752ac6fb996efa6/1770902529977square logos.png"
-  },
-  {
     "name": "Build Something Stupid",
     "desc": "Building in public newsletter",
     "url": "https://buildsomethingstupid.com",
     "img": "https://d3m8mk7e1mf7xn.cloudfront.net/65a988458752ac6fb996efa6/1770902712560square logos (1).png"
-  },
-  {
-    "name": "Vedeggio",
-    "desc": "Cost tracking that doesn't suck",
-    "url": "https://vedeggio.com",
-    "img": "https://vedeggio.com/favicon.ico"
   },
   {
     "name": "Regrets.io",
